@@ -16,7 +16,7 @@ img {
   }
 
 .one {
-    background-color: red;
+    background-color: #94141d;
     display: flex;
     height: 25%;
     width: auto;
@@ -39,22 +39,22 @@ img {
     text-decoration: none;
     color: white;
     font-size: 20px;
+    font-weight: bold;
 }
 
 .blackstar {
-    background-color: 93101e;
+    background-color: #94141d;
     height: 500px;
     width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    border: 1px solid red;
 }
 
 .left-text{
-    border: 1px solid red;
     width: 35%;
+    height: 80%;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -63,28 +63,38 @@ img {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.title {
-    font-size: 50px;
-    color: white;
-    text-align: left;
-    font-weight: bold;
+
+
+.bslogo {
+    width: 300px !important;
+    height: auto !important;
+}
+
+.left-text img {
+    width: 100%;
+    height: auto;
 }
 
 .description {
     color: white;
     font-size: 20px;
+    font-family: 'trebuchet ms', sans-serif;
 }
 
 button{
-    background-color: cyan;
+    background-color: #f59a0c;
     width: 20%;
     height: auto;
     padding: 10px;
     border-radius: 5px;
     border: none;
+    font-family: 'arial', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
 }
 
-.blackstar img {
+.bsimage {
     width: 300px;
     height: 300px;
     border: 3px solid white;
