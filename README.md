@@ -45,7 +45,7 @@ open index.html
 
 ## 📸 Screenshots
 
-*Screenshots or GIF of the webpage would go here*
+nothing yet
 
 ## 🤝 Contributions
 
