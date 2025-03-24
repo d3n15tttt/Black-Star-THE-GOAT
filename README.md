@@ -30,7 +30,7 @@ A passionate web development project celebrating the legendary **Black☆Star** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/black-star-webpage.git
+git clone https://github.com/d3n15tttt/Black-Star-THE-GOAT.git
 
 # Open index.html in your browser
 open index.html
