@@ -1,10 +1,10 @@
-# 🌟 Black☆Star Tribute Website
+# 🌟 Soul Eater Fan Site
 
 ![Soul Eater Banner](https://img.shields.io/badge/Soul%20Eater-Black%E2%98%86Star-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACklEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==)
 
 ## 📖 What's This?
 
-Yo, I made this website just to learn how to code and have some fun celebrating the one and only **Black☆Star** from *Soul Eater*! No fancy stuff here, just some HTML, CSS, and a whole lot of passion for a cool character.
+Yo, I built this site as a fun learning project to dive into coding while celebrating all the awesome characters from Soul Eater! It’s a chill hub where you can check out the coolest faces from the series and enjoy a bit of anime nostalgia.
 
 ## 🎯 What’s the Deal?
 
@@ -16,7 +16,7 @@ Yo, I made this website just to learn how to code and have some fun celebrating 
 
 > **Heads Up!**
 > - This is a personal fan project—nothing too serious.
-> - All rights to Black☆Star and Soul Eater go to Atsushi Ōkubo.
+> - All rights to Soul Eater and its characters belong to Atsushi Ōkubo.
 > - Not for profit; just a fun coding experiment.
 > - Totally educational. I'm just trying to figure out this web thing.
 
@@ -58,7 +58,6 @@ If you dig it, feel free to:
 
 - **Character**: Black☆Star – you da real MVP.
 - **Creator**: Atsushi Ōkubo – thanks for the epic creation.
-- **Web Dev**: [d3n15tttt] – just a coding enthusiast on a wild ride.
 
 ---
 
