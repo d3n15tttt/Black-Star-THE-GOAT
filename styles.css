@@ -42,6 +42,17 @@ img {
     font-weight: bold;
 }
 
+.menu-item img {
+    width: 100px;
+    height: auto;
+}
+.menu-item img:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s;
+
+}
+
+
 .separator {
     background-color: #ffffff;
     height: 2px;
@@ -73,6 +84,7 @@ img {
 .bslogo {
     width: 300px !important;
     height: auto !important;
+    
 }
 
 .left-text img {
@@ -86,7 +98,24 @@ img {
     font-family: 'trebuchet ms', sans-serif;
 }
 
-button{
+.links {
+    display: flex;
+    gap: 30px;
+}
+
+.MALLOGO, .WIKIALOGO {
+    width: 100px !important;
+    height: auto !important;
+    margin-top: 20px !important;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+.MALLOGO:hover, .WIKIALOGO:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+/*button{
     background-color: #f59a0c;
     width: 20%;
     height: auto;
@@ -97,7 +126,7 @@ button{
     font-size: 20px;
     color: #ffffff;
     font-weight: bold;
-}
+}*/
 
 .bsimage {
     width: 300px;
@@ -135,11 +164,13 @@ button{
     object-fit: cover;
     object-position: top;
     border: 3px solid white;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 .char-container img:hover {
     transform: scale(1.05);
     transition: transform 0.5s;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
 }
 .char-container p:hover {
     transform: scale(1.05);
@@ -194,6 +225,13 @@ button{
     /*border: 1px solid red;*/
     text-align: right;
 }
+
+
+@media (max-width: 1200px) {
+    .char-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
 
 @media (max-width: 768px) {
     .char-container {
