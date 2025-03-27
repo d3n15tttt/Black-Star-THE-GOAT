@@ -43,12 +43,12 @@ img {
 }
 
 .separator {
-    background-color: #f89c0b;
+    background-color: #ffffff;
     height: 2px;
 }
 
 .blackstar {
-    background-color: #94141d;
+    background-color: #f59a0c;
     height: 500px;
     width: auto;
     display: flex;
