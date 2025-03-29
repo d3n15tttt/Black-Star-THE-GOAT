@@ -8,7 +8,7 @@ Yo, I built this site as a fun learning project to dive into coding while celebr
 
 ## 🎯 What’s the Deal?
 
-- **Responsive Design**: It works on your phone, tablet, or even that ancient desktop computer! * - yeah not yet but soon*
+- **Responsive Design**: It works on your phone, tablet, or even that ancient desktop computer! -*yeah not yet but soon*
 - **Simple HTML & CSS**: Keeping it real with clean code.
 - **Tribute Vibes**: A shout-out to Black☆Star because why not?
 
@@ -38,7 +38,7 @@ open index.html
 
 ## 🌈 What’s Cool Here
 
-- [ ] Works on all devices * - yeah not yet but soon*
+- [ ] Works on all devices -*yeah not yet but soon*
 - [x] A fun tribute page
 - [x] No frills, just thrills
 - [ ] More cool stuff coming soon (maybe)
