@@ -227,6 +227,19 @@ img {
     text-align: right;
 }
 
+footer {
+    height: 100px;
+    background-color: #94141d;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    width: 50%;
+    color: white;
+}
 
 @media (max-width: 1200px) {
     .char-container {
