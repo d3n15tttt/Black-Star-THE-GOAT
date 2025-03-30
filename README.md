@@ -30,13 +30,21 @@ Yo, I built this site as a fun learning project to dive into coding while celebr
 
 ## 🚀 How to Check It Out
 
-```bash
-# Clone it and see what's up
-git clone https://github.com/d3n15tttt/Black-Star-THE-GOAT.git
+You can explore the project live at:
 
+- **GitHub Pages**: [https://d3n15tttt.github.io/Black-Star-THE-GOAT/](https://d3n15tttt.github.io/Black-Star-THE-GOAT/)
+- **Cloudflare Pages**: [https://soul-eater.pages.dev/](https://soul-eater.pages.dev/)
+
+Alternatively, to run the project locally:
+
+
+# Clone it and see what's up
+```bash
+git clone https://github.com/d3n15tttt/Black-Star-THE-GOAT.git
+```
 # Open index.html in your favorite browser
 open index.html
-```
+
 
 ## 🌈 What’s Cool Here
 
