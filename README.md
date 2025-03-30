@@ -38,12 +38,14 @@ You can explore the project live at:
 Alternatively, to run the project locally:
 
 
-# Clone it and see what's up
+Clone it and see what's up
 ```bash
 git clone https://github.com/d3n15tttt/Black-Star-THE-GOAT.git
 ```
-# Open index.html in your favorite browser
+Open index.html in your favorite browser
+```bash
 open index.html
+```
 
 
 ## 🌈 What’s Cool Here
