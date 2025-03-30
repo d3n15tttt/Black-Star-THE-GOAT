@@ -19,6 +19,8 @@ Yo, I built this site as a fun learning project to dive into coding while celebr
 > - All rights to Soul Eater and its characters belong to Atsushi Ōkubo.
 > - Not for profit; just a fun coding experiment.
 > - Totally educational. I'm just trying to figure out this web thing.
+> - This project was whipped up as part of the [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) in the Foundations course on [The Odin Project](https://www.theodinproject.com/). I did stray a bit from the script, so it's not exactly what the course outlined.
+
 
 ## 🛠 Tech Goodies
 
