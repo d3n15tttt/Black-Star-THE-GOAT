@@ -264,6 +264,27 @@ footer {
 
 
 
+.wallpaperandlinkcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #f59a0c;
+}
+
+.wallpaperlogo img {
+    width: auto !important;
+    height: 200px !important;
+    margin-bottom: 20px;
+}
+.wallpaper img{
+    width: auto;
+    height: 600px;
+    border: 3px solid white;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
 
 
 .links-banner {
