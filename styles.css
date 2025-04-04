@@ -105,6 +105,12 @@ img {
     gap: 30px;
 }
 
+.simetrie {
+    display: flex !important;
+    justify-content: space-between !important;
+   /* border: 1px solid red !important;*/
+}
+
 .MALLOGO, .WIKIALOGO {
     width: 100px !important;
     height: auto !important;
