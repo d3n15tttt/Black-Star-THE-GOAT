@@ -4,11 +4,10 @@
 
 ## 📖 What's This?
 
-Yo, I built this site as a fun learning project to dive into coding while celebrating all the awesome characters from Soul Eater! It’s a chill hub where you can check out the coolest faces from the series and enjoy a bit of anime nostalgia.
+Yo, I built this site as a fun learning project to dive into coding while celebrating all the awesome characters from Soul Eater!
 
 ## 🎯 What’s the Deal?
 
-- **Responsive Design**: It works on your phone, tablet, or even that ancient desktop computer! -*yeah not yet but soon*
 - **Simple HTML & CSS**: Keeping it real with clean code.
 - **Tribute Vibes**: A shout-out to Black☆Star because why not?
 
@@ -26,7 +25,6 @@ Yo, I built this site as a fun learning project to dive into coding while celebr
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-blueviolet?style=for-the-badge) -*yeah not yet but soon*
 
 ## 🚀 How to Check It Out
 
@@ -46,18 +44,6 @@ Open index.html in your favorite browser
 ```bash
 open index.html
 ```
-
-
-## 🌈 What’s Cool Here
-
-- [ ] Works on all devices -*yeah not yet but soon*
-- [x] A fun tribute page
-- [x] No frills, just thrills
-- [ ] More cool stuff coming soon (maybe)
-
-## 📸 Screenshots
-
-Still cooking these up—hang tight!
 
 ## 🤝 Wanna Contribute?
 
